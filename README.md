@@ -35,7 +35,9 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-A most pleasant ballad of patient Grissell To the tune of the brides good morrovv.Deloney, Thomas, 1
+
+1. A most pleasant Ballad of patient Grissell.
+
 **Types of content**
 
   * There are 182 **verse** lines!
